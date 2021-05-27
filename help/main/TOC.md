@@ -4,11 +4,10 @@ user-guide-description: Una raccolta di video e tutorial per Adobe Advertising C
 breadcrumb-title: Tutorial di Advertising Cloud
 breadcrumb-url: /docs/advertising-cloud-learn/dsp/overview.html
 solution: Advertising Cloud
-translation-type: tm+mt
 source-git-commit: 48ca6fcc4b72981535b8431da66c030aa5e0ff71
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '90'
+ht-degree: 24%
 
 ---
 
