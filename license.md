@@ -1,24 +1,17 @@
 ---
-source-git-commit: 89ebe7991ce7b3d2434f42c13f0a7c553a99e316
+source-git-commit: 983a2d25194378cac89505130f5eea28b7cc67f5
 workflow-type: tm+mt
-translation-type: tm+mt
 source-wordcount: '170'
 ht-degree: 46%
 
 ---
 # Licenza MIT
 
-© Copyright 2018 Adobe. All rights reserved.
+© Copyright 2021 Adobe. All rights reserved.
 
-È concessa gratuitamente l&#39;autorizzazione a chiunque ne ottenga una copia
-di questo software e dei relativi file di documentazione (il &quot;Software&quot;), per
-nel Software senza restrizioni, compresi senza limitazioni i diritti
-utilizzare, copiare, modificare, unire, pubblicare, distribuire, concedere in sublicenza e/o vendere
-copie del Software e per consentire alle persone a cui il Software è
-a tal fine, alle seguenti condizioni:
+È concessa gratuitamente l&#39;autorizzazione a qualsiasi persona che ottenga una copia di questo software e dei relativi file di documentazione (il &quot;Software&quot;), a trattare il Software senza restrizioni, compresi, a titolo esemplificativo, i diritti di utilizzare, copiare, modificare, unire, pubblicare, distribuire, concedere in sublicenza e/o vendere copie del Software, e a consentire alle persone a cui il Software è fornito di farlo, alle seguenti condizioni:
 
-L&#39;avviso di copyright di cui sopra e l&#39;avviso di autorizzazione sono inclusi in tutti
-copie o parti sostanziali del Software.
+L&#39;avviso di copyright di cui sopra e l&#39;avviso di autorizzazione devono essere inclusi in tutte le copie o parti sostanziali del Software.
 
 THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
