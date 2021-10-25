@@ -11,6 +11,6 @@ ht-degree: 0%
 
 # Generazione di rapporti con i canali di marketing Advertising Cloud (A4AdC)
 
-Scopri come i dati di accesso rapido e intuitivo di Advertising Cloud funzionano con Adobe Analytics [!UICONTROL Marketing Channels].
+Scopri come funzionano i dati di accesso rapido e intuitivo di Advertising Cloud con Adobe Analytics [!UICONTROL Marketing Channels].
 
 >[!VIDEO](https://video.tv.adobe.com/v/33502)

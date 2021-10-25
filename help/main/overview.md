@@ -1,6 +1,6 @@
 ---
-title: Tutorial di Advertising Cloud
-description: Una raccolta di video e tutorial per Adobe Advertising Cloud.
+title: Tutorial su Advertising Cloud
+description: Una raccolta di video e tutorial su Adobe Advertising Cloud.
 audience: all
 activity: use
 doc-type: overview
@@ -13,9 +13,9 @@ ht-degree: 30%
 
 ---
 
-# Tutorial di Advertising Cloud
+# Tutorial su Advertising Cloud
 
-Benvenuto/a nel sito dei Tutorials [!DNL Advertising Cloud]. L&#39;utilizzo di queste esercitazioni e della [documentazione](https://helpx.adobe.com/support/advertising-cloud.html) ti permetterà di comprendere meglio come utilizzare Adobe Advertising Cloud per acquisire informazioni sui clienti in modo più rapido che mai.
+Benvenuti nel [!DNL Advertising Cloud] Sito Tutorials. Utilizzo di queste esercitazioni insieme al [documentazione](https://helpx.adobe.com/support/advertising-cloud.html) ti consentirà di comprendere meglio come utilizzare Adobe Advertising Cloud per acquisire informazioni sui clienti in modo più rapido che mai.
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content
