@@ -1,21 +1,23 @@
 ---
 title: Tutorial su Advertising Cloud
 description: Una raccolta di video e tutorial su Adobe Advertising Cloud.
-audience: all
-activity: use
-doc-type: overview
-team: Technical Marketing
 exl-id: aa9d9ff5-115f-44c6-b23d-3fc034904697
-source-git-commit: e601aa5b01b481267e4c398b5e14bffa8412dfff
+source-git-commit: 43ddfe0e493296bd8e8cd415627a38d78fb55f9c
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 30%
+source-wordcount: '63'
+ht-degree: 25%
 
 ---
 
 # Tutorial su Advertising Cloud
 
-Benvenuti nel [!DNL Advertising Cloud] Sito Tutorials. Utilizzo di queste esercitazioni insieme al [documentazione](https://experienceleague.adobe.com/docs/advertising-cloud.html) ti consentirà di comprendere meglio come utilizzare Adobe Advertising Cloud per acquisire informazioni sui clienti in modo più rapido che mai.
+Queste esercitazioni video, insieme al [documentazione](https://experienceleague.adobe.com/docs/advertising-cloud.html), ti aiuterà a utilizzare Advertising Cloud per ottenere informazioni sui clienti più rapidamente che mai.
+
+I video sono disponibili per:
+
+* Advertising Cloud DSP
+
+* Integrazioni Advertising Cloud DSP e Advertising Cloud Search con altri prodotti e servizi Adobe Experience Cloud
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content
