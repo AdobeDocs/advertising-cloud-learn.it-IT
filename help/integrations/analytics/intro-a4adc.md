@@ -1,15 +1,15 @@
 ---
-title: Introduzione ad Analytics per Advertising Cloud
+title: Introduzione a [!DNL Adobe Analytics for Advertising Cloud]
 description: Comprendi i vantaggi dell’integrazione tra Advertising Cloud e Adobe Analytics, compresi i problemi dei clienti che risolve.
 exl-id: 3e8b735d-62a3-4f03-b259-f3278cde8afb
-source-git-commit: 0e31992243519919883a1376b4cbaff1f2fce8ac
+source-git-commit: 1a5d4f41f6ef3e297fea43c6557513e7f5cfc900
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '40'
 ht-degree: 0%
 
 ---
 
-# Introduzione ad Analytics for Advertising Cloud (A4AdC)
+# Introduzione a [!DNL Adobe Analytics for Advertising Cloud]
 
 Comprendi i vantaggi dell’integrazione tra Advertising Cloud e Adobe Analytics, compresi i problemi dei clienti che risolve.
 

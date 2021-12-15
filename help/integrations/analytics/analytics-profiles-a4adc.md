@@ -1,15 +1,17 @@
 ---
-title: Creare profili Analytics per attivazione e reporting di Advertising Cloud
+title: Crea [!DNL Analytics] Profili per attivazione e reporting di Advertising Cloud
 description: Scopri come utilizzare Adobe Analytics per creare solidi pool di retargeting dei siti per il remarketing Advertising Cloud.
 exl-id: e367435c-238a-4025-a160-ff72d45ea741
-source-git-commit: 0e31992243519919883a1376b4cbaff1f2fce8ac
+source-git-commit: 1a5d4f41f6ef3e297fea43c6557513e7f5cfc900
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# Creare profili di Analytics per attivazione e reporting di Advertising Cloud (A4AdC)
+# Crea [!DNL Analytics] Profili per attivazione e reporting di Advertising Cloud
+
+*Inserzionisti con[!DNL Adobe Analytics for Advertising Cloud]*
 
 Scopri come utilizzare Adobe Analytics per creare solidi pool di retargeting dei siti per il remarketing Advertising Cloud.
 
