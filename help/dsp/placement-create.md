@@ -1,17 +1,15 @@
 ---
-title: Come creare un posizionamento per Advertising Cloud DSP
-description: Scopri come creare un posizionamento.
-source-git-commit: bc4c9b3852211e25ef1981c38d03e3bb47c60964
+title: Come creare un posizionamento di visualizzazione standard per Advertising Cloud DSP
+description: Scopri come creare un posizionamento di visualizzazione standard.
+source-git-commit: ebceb6cdd931dfb799d2b54f3ab5be84e227e7dd
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Come creare un posizionamento
+# Come creare un posizionamento di visualizzazione standard
 
-Scopri come creare un posizionamento per una campagna Advertising Cloud DSP.
+Scopri come creare un posizionamento di visualizzazione standard per una campagna Advertising Cloud DSP.
 
-<!--
->[!VIDEO]()
--->
+>[!VIDEO](https://video.tv.adobe.com/v/340454)
