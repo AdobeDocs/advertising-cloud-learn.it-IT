@@ -1,15 +1,16 @@
 ---
-title: Struttura dell’account Advertising Cloud DSP e interfaccia utente
+title: Struttura dell'account DSP e interfaccia utente
 description: Scopri la struttura dell’account DSP e l’interfaccia utente.
-source-git-commit: 2a499d05defe0dd44c3c4ba0584ac506939bca71
+exl-id: c7786a04-a0ab-4ae6-8d5c-da68713f18d9
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
 # Struttura dell&#39;account e interfaccia utente
 
-Scopri come sono strutturati i tuoi account per annunci Advertising Cloud DSP, come utilizzare le visualizzazioni di gestione delle campagne e le descrizioni di gestione dell’audience, inventario, reporting, impostazioni e funzionalità delle risorse.
+Scopri come sono strutturati i tuoi account di annunci DSP, come utilizzare le visualizzazioni di gestione delle campagne e le descrizioni di gestione dell&#39;audience, inventario, reporting, impostazioni e funzionalità delle risorse.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339206)
