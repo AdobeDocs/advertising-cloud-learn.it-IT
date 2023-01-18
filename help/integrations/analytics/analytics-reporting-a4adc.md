@@ -1,10 +1,9 @@
 ---
 title: Generazione di rapporti con Adobi canali di marketing pubblicitari
 description: Scopri come funzionano i dati di accesso alla visualizzazione dei contenuti e al click-through di Adobe Advertising con Adobe Analytics [!DNL Marketing Channels].
-exl-id: 9fadf819-17bf-47cc-b763-1375e426552f
-source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
+source-git-commit: 3ea5208bb5cc560a1563cfd9b9647462560d7e67
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
